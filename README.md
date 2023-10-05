@@ -2,9 +2,9 @@
 
 * Bachelor's degree student in computer engineering at the University of Parma  🏫
 * Back-end developer  💻
-* Italy  🇮🇹
+* Liguria, Italy  🇮🇹
 
-# Programming Languages  ⌨️
+# Programming Languages  🛠️
 
 <div >
   <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title = "Arduino" alt = "Arduino" width="40" heigth="40"/>&nbsp;
