@@ -1,4 +1,7 @@
-### Hi there 👋
+# About me
+
+* Bachelor's degree student in computer engineering at the University of Parma 💻
+* Back-end developer 
 
 <!--
 **MatteoFranchini01/MatteoFranchini01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
