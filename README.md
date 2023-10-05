@@ -6,9 +6,7 @@
 
 # Programming Languages  ⌨️
 
-| Linguaggio      | Logo                   |
-|-----------------|------------------------|
-| Python          | ![Logo di Python](https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png) |
+https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg
 
 
 
