@@ -8,6 +8,11 @@
 
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title = "Arduino" alt = "Arduino" width="40" heigth="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/tree/master/icons/html5" title = "HTML5" alt = "HTML5" width="40" heigth="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title = "Java" alt = "Java" width="40" heigth="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title = "Latex" alt = "Latex" width="40" heigth="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title = "Matlab" alt = "Matlab" width="40" heigth="40"/>&nbsp;
+  <img src = "" title = "Java" alt = "Java" width="40" heigth="40"/>&nbsp;
 </div>
 
 
